@@ -9,6 +9,7 @@ A simple, scalable, and powerful architecture for building production ready Reac
 Chrislee
 9411@gmail.com
 swifthorse@mail.com
+gingle@yandex.com
 React is a great tool for building frontend applications. It has a very diverse ecosystem with hundreds of great libraries for literally anything you might need. However, it can be overwhelming to be forced to make so many choices.
 It is also very flexible, you can write React applications in any way you like but that flexibility comes with a cost. Since there is no pre-defined architecture developers can follow, it often leads to messy, inconsistent, or over-complicated codebases.
 
